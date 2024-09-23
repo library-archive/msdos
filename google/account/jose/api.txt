@@ -1,0 +1,4 @@
+set apiKey=AIzaSyDyAGCjxooO4TFSMI4Z1zgoVbusCr1fvpw
+set cx=sonic-terminal-436501-f2
+set searchQuery=%search%
+curl -G "https://www.googleapis.com/customsearch/v1" --data-urlencode "key=!apiKey!" --data-urlencode "cx=!cx!" --data-urlencode "q=!searchQuery!" > results.json

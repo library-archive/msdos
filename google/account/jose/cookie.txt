@@ -1,0 +1,1 @@
+echo Search performed for "%search%" on %date% %time% >> cookies.txt

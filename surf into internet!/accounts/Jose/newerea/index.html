@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SurfIntoTheInternet.surfsite</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="navbar">
+        <input type="text" id="url" placeholder="Type a URL..." />
+        <button onclick="loadPage()">Go</button>
+        <button onclick="goBack()">back</button>
+        <button onclick="goForward()">Front</button>
+    </div>
+    <iframe id="webview" src="" width="100%" height="600px"></iframe>
+    <script src="script.js"></script>
+</body>
+</html>

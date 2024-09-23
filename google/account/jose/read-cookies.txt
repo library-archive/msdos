@@ -1,0 +1,3 @@
+for /F "tokens=1,2 delims==" %%A in (cookies.txt) do (
+    echo Cookie Name: %%A, Value: %%B
+)

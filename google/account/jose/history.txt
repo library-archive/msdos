@@ -1,0 +1,4 @@
+Searching for "olesaki>cmd"... 
+1. www.example1.com - Description 1 
+2. www.example2.com - Description 2 
+3. www.example3.com - Description 3 

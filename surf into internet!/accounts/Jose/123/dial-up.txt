@@ -1,0 +1,10 @@
+no dial-up
+device rare i think futuristic 
+detect hipsd= Wi-Fi
+Modern dial-up
+Internet
+2023-2024
+SpectrumSetup-753B
+pass: apartpattern275
+no phone required
+device: windows 10

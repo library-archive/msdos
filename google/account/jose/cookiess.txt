@@ -1,0 +1,3 @@
+set cookieName=myCookie
+set cookieValue=myValue
+echo !cookieName!=!cookieValue! >> cookies.txt
